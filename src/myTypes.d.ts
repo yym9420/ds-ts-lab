@@ -17,3 +17,4 @@ export interface ColleagueHistory {
   current: Colleague[],
   former: Colleague[]
 }
+
